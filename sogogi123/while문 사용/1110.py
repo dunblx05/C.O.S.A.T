@@ -1,4 +1,3 @@
-
 start= int(input())
 def sum_cycle(start):
     global count
