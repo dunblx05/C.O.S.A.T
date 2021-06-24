@@ -1,0 +1,6 @@
+A = int(input())
+B=int(input())
+print(A * (B%10))
+print(A*(B%100-(B%10))//10)
+print(A*(B-((B%100-(B%10)+(B%10))))//100)
+print(A*B)
