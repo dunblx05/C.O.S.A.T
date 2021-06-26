@@ -2,7 +2,7 @@ def d(n):
   n=n+sum(map(int,str(n)))
   return n
 
-production=[]
+production=[0]*10001
 
 
 for i in range(1,10001):
