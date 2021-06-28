@@ -13,6 +13,6 @@ for i  in range(stringLenth):
         time = 9
 
     timeList.append(time)
-print(timeList)
+
 print(sum(timeList))
 
