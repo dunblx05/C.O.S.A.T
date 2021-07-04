@@ -7,4 +7,4 @@ for _ in range(num):
     
 
     else:
-        print("{0}{1:0>2}".format(N,N//H))
+        print("{0}{1:0>2}".format(H,N//H))
