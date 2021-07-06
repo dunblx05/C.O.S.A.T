@@ -1,5 +1,7 @@
 # C.O.S.A.T
 # 코사트!! 특별과정
+![이근][http://itimg.chosun.com/sitedata/image/202004/30/2020043001669_0.jpg]
+
 1.일주일에 5문제(많이 풀면 많이 풀수록 좋다)
 
 2.풀고 푼 방법 및 코드 같이 올리기
@@ -11,24 +13,24 @@
 | :--: | :--------------------------: | :-----------------: | :------:  | :---------:  | :------: |
 | 00 | Data Structure | 자료구조 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/data_structure) | 15 | 23 |
 | 01 | Data Structure 2 | 자료구조 2 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/data_structure2) | 11 | 21 |
-| 02 | Tree | 트리 | [바로가기](./tree) | 15 | 44 |
-| 03 | Math | 수학 | [바로가기](./math) | 16 | 27 |
-| 04 | Greedy | 탐욕법 | [바로가기](./greedy) | 27 | 62 |
-| 05 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./dynamic_programming_1) | 25 | 77 |
-| 06 | Dynamic Programming 2 | 동적계획법 2 | [바로가기](./dynamic_programming_2) | 28 | 81 |
-| 07 | Two Pointer | 투 포인터 | [바로가기](./two_pointer) | 12 | 35 |
-| 08 | Implementation | 구현 | [바로가기](./implementation) | 26 | 47 |
-| 09 | Graph Traversal | 그래프 탐색 | [바로가기](./graph_traversal) | 28 | 92 |
-| 10 | Brute Force | 완전탐색 | [바로가기](./brute_force) | 31 | 91 |
-| 11 | Simulation | 시뮬레이션 | [바로가기](./simulation) | 29 | 47 |
-| 12 | Binary Search | 이분탐색 | [바로가기](./binary_search) | 19 | 64 |
-| 13 | Backtracking | 백트래킹 | [바로가기](./backtracking) | 27 | 74 |
-| 14 | Divide and conquer | 분할정복 | [바로가기](./divide_and_conquer) | 08 | 18 |
-| 15 | Prefix Sum | 누적 합 | [바로가기](./prefix_sum) | 11 | 32 |
+| 02 | Tree | 트리 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/tree) | 15 | 44 |
+| 03 | Math | 수학 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/math) | 16 | 27 |
+| 04 | Greedy | 탐욕법 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/greedy) | 27 | 62 |
+| 05 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/dynamic_programming_1) | 25 | 77 |
+| 06 | Dynamic Programming 2 | 동적계획법 2 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/dynamic_programming_2) | 28 | 81 |
+| 07 | Two Pointer | 투 포인터 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/two_pointer) | 12 | 35 |
+| 08 | Implementation | 구현 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/implementation) | 26 | 47 |
+| 09 | Graph Traversal | 그래프 탐색 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/graph_traversal) | 28 | 92 |
+| 10 | Brute Force | 완전탐색 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/brute_force) | 31 | 91 |
+| 11 | Simulation | 시뮬레이션 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/simulation) | 29 | 47 |
+| 12 | Binary Search | 이분탐색 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/binary_search) | 19 | 64 |
+| 13 | Backtracking | 백트래킹 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/backtracking) | 27 | 74 |
+| 14 | Divide and conquer | 분할정복 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/divide_and_conquer) | 08 | 18 |
+| 15 | Prefix Sum | 누적 합 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/prefix_sum) | 11 | 32 |
 | 16 | String | 문자열 | [바로가기](./string) | 19 | 65 |
-| 17 | Shortest Path | 최단거리 | [바로가기](./shortest_path) | 17 | 51 |
-| 18 | Topological Sorting | 위상정렬 | [바로가기](./topological_sorting) | 05 | 14 |
+| 17 | Shortest Path | 최단거리 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/shortest_path) | 17 | 51 |
+| 18 | Topological Sorting | 위상정렬 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/topological_sorting) | 05 | 14 |
 | 19 | Disjoint Set | 분리 집합 | [바로가기](./disjoint_set) | 06 | 20 |
-| 20 | Minimum Spanning Tree(MST) | 최소 스패닝 트리 | [바로가기](./minimum_spanning_tree) | 08 | 24 |
-| 21 | Trie | 트라이 | [바로가기](./trie) | 05 | 09 |
-| 22 | Dynamic Programming On Trees | 트리디피 | [바로가기](./dynamic_programming_on_trees) | 04 | 08 |
+| 20 | Minimum Spanning Tree(MST) | 최소 스패닝 트리 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/minimum_spanning_tree) | 08 | 24 |
+| 21 | Trie | 트라이 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/trie) | 05 | 09 |
+| 22 | Dynamic Programming On Trees | 트리디피 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/dynamic_programming_on_trees) | 04 | 08 |
