@@ -1,6 +1,6 @@
 # C.O.S.A.T
 # 코사트!! 특별과정
-![이근](https://opgg-com-image.akamaized.net/attach/images/20200809114758.939089.jpg)
+![머리부터 발끝까지](https://opgg-com-image.akamaized.net/attach/images/20200809114758.939089.jpg)
 
 1.일주일에 5문제(많이 풀면 많이 풀수록 좋다)
 
