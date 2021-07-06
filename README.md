@@ -1,6 +1,6 @@
 # C.O.S.A.T
 # 코사트!! 특별과정
-![이근][http://itimg.chosun.com/sitedata/image/202004/30/2020043001669_0.jpg]
+![이근](https://opgg-com-image.akamaized.net/attach/images/20200809114758.939089.jpg)
 
 1.일주일에 5문제(많이 풀면 많이 풀수록 좋다)
 
