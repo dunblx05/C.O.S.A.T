@@ -13,6 +13,7 @@ numList = []
 for i in range(1,123456*2):
     if Findss(i):
         numList.append(i)
+        
 while True:
     num = int(input())
     count = 0
