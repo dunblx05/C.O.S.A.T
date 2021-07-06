@@ -10,7 +10,7 @@
 | 순번 | Tag                          | 태그                | 문제집    | 추천 문제 수 | 총 문제 수 |
 | :--: | :--------------------------: | :-----------------: | :------:  | :---------:  | :------: |
 | 00 | Data Structure | 자료구조 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/data_structure) | 15 | 23 |
-| 01 | Data Structure 2 | 자료구조 2 | [바로가기](./data_structure2) | 11 | 21 |
+| 01 | Data Structure 2 | 자료구조 2 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/data_structure2) | 11 | 21 |
 | 02 | Tree | 트리 | [바로가기](./tree) | 15 | 44 |
 | 03 | Math | 수학 | [바로가기](./math) | 16 | 27 |
 | 04 | Greedy | 탐욕법 | [바로가기](./greedy) | 27 | 62 |
