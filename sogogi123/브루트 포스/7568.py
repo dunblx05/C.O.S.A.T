@@ -10,5 +10,5 @@ for i in range(num):
     for j in range(num):
         if x[i]<x[j]and y[i]<y[j]:
             rank+=1
-    print(rank, end= "")
+    print(rank, end= " ")
     
