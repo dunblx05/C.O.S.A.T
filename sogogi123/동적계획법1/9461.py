@@ -1,7 +1,7 @@
 import sys
 from functools import cache
 
-@cache
+@cache # 캐쉬 메모리를 사용하면 재귀 함수를 이용해서도 풀이가능
 def p(n):
     if n <4:
         return 1
