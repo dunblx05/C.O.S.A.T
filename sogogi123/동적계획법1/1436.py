@@ -10,6 +10,4 @@ for i in range(2,num+1):
     if i %3==0 and count[i]> count[i//3]+1:
         count[i] = count[i//3]+1
 
-
-
 print(count[num])
