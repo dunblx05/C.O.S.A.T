@@ -1,6 +1,6 @@
 char = list(input())
 char2 = list(input())
-dp = [[0 for i in range(len(char)+1)]for i in range(len(char2)+1)]
+dp = [[0 for i in range(len(char2)+1)]for i in range(len(char)+1)]
 
 for i in range(1,len(char)+1):
     for j in range(1,len(char2)+1):
