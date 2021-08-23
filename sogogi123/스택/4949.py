@@ -3,7 +3,7 @@ while True:
     string = sys.stdin.readline().rstrip()
     if string == ".":
         break
-    res = None
+    res = True
     stack = []
     for i in string:
         if i =="(" or i=="[":
